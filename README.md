@@ -24,7 +24,7 @@
 - **Sentiment Analysis**
 
 ## Abstract
-This project focuses on building an **Automated Candidate Assessment System** that evaluates candidates during an interview using a combination of **Computer Vision (CV)**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**. The system assesses the candidate's **confidence level** through facial expression analysis, evaluates their **answer performance** by comparing responses to predefined answers, and dynamically adjusts the interview questions based on their performance. The goal is to provide a comprehensive and adaptive chatbot to evaluate and accordingly, proceed for the further assessment.
+This project focuses on building an **Automated Candidate Assessment System** that evaluates candidates during an interview using a combination of **Computer Vision (CV)**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**. The system assesses the candidate's **confidence level** through facial expression analysis, evaluates their **answer performance** by comparing responses to predefined answers, and dynamically adjusts the interview questions based on their performance. The goal is to provide a comprehensive and adaptive chatbot to evaluate and accordingly, proceed for further assessment.
 
 ## Dataset
 The system uses the following data:
