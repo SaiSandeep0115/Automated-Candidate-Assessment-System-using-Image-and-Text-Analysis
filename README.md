@@ -1,5 +1,7 @@
 # Automated Candidate Assessment System using Image and Text analysis
 
+![Home Page](Candidate_Assessment_Framework.jpeg)
+
 ## Languages:
 - **Python**
 
